@@ -1,6 +1,6 @@
 # Docker Bun GDAL
 
-A Docker image based on `oven/bun:1` with `gdal-bin` installed, maintained by [axiacore](https://axiacore.com).
+A Docker image based on `oven/bun:1.4` with `gdal-bin` installed, maintained by [axiacore](https://axiacore.com).
 
 **Repository:** https://github.com/axiacore/docker-bun-gdal
 
@@ -8,7 +8,7 @@ A Docker image based on `oven/bun:1` with `gdal-bin` installed, maintained by [a
 
 This image is designed for projects that require Bun and GDAL (Geospatial Data Abstraction Library) tools for geospatial data processing and manipulation.
 
-- **Base Image:** `oven/bun:1`
+- **Base Image:** `oven/bun:1.4`
 - **Includes:** `gdal-bin` (GDAL command-line utilities)
 
 ## Usage
